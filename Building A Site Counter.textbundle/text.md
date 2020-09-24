@@ -96,7 +96,11 @@ This question really did haunt me. A little bit of googling led me to Manning’
   end
 ```
 
-Turns out, wrapping our changes in an ecto transaction does the trick!
+Turns out, wrapping our changes in an `ecto` transaction does the trick!
+
+# How to test this out?
+  
+`mix phx.server` and run  `seq 1 100 | xargs -n1 -P20 curl "http://localhost:4000/add"`in multiple tabs. That should do the trick. I may try subbing in mnesia instead of postgres sometime
 
 [2]:	/routing-in-phoenix
 [3]:	https://github.com/codeOfRobin/try-phoenix-database-rollover/commit/fd50d5b2158021da65e4c115d777b2917bf9e31a#diff-a377387ada6665e4e5bbf23d0272f46c
