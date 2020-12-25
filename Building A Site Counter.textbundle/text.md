@@ -8,7 +8,7 @@ excerpt: “This is some of the stuff I learnt building a site counter in Phoeni
 
 This follows my first tutorial building a [Router in Phoenix][2], and here’s what I learnt along the way.
 
-Remember those cute site counter things we used to see on websites back in the day? That felt like a reasonably simple project to start because it seems simple enough:
+Remember those cute site counter things we used to see on websites back in the day? That felt like a reasonably minimal project to start because it seems self-contained and reasonable enough:
 1. store a number
 2. add 1 to it
 3. save it somewhere
@@ -27,7 +27,7 @@ def add(conn, _params) do
 end
 ```
   
-Sounds simple enough right? Query the first row out of a database (I was using Postgres), add 1 to it, update the row, return JSON.
+Sounds okay enough right? Query the first row out of a database (I was using Postgres), add 1 to it, update the row, return JSON.
 
 Turns out, you run into an issue: if you run lots of concurrent requests, eventually you’d have a place where two concurrent requests would add a number at the same time and instead of incrementing by 2, would increment by 1.
 

@@ -18,6 +18,7 @@ Here’s some quick notes:
 - ![][image-1]  
 	I can’t seem to find the latest one for Xcode 12 - need to figure this out
 - a JSON file! I wonder how much the spec looks like JSONFeed
+<!--alex ignore host-hostess-->
 - I love the secure hash idea! Great if you want to make a SaaS or something to help people host Swift Playgrounds
 
 [2]:	https://developer.apple.com/videos/play/wwdc2018/413/ "WWDC 2018's excellent session on how to create a Swift Playgrounds Subscription"

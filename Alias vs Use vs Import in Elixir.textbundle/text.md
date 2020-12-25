@@ -44,6 +44,7 @@ we can also `alias Ecto.Changeset, as: c`
 
 # Use 
 
+<!--alex ignore special-->
 Use is a bit of a special thing in elixir: it leverages metaprogramming capabilities into elixir. It’s also how elixir gets subclassing like behaviours without actually having subclasses!
 
 Ref:
