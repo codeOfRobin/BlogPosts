@@ -6,6 +6,7 @@ tags: [”iOS”, “UIKit”, “Swift”]()
 excerpt: “A great blog post on the Link presentation framework”
 ---
 
+<!--alex ignore her-him-->
 I’ve been reading up on the [Link Presentation Framework introduced in iOS 13][2] and I found this _excellent_ post by Jordan Morgan on his blog:  
 
 
