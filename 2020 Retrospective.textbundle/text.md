@@ -25,6 +25,8 @@ tags: [”2020, Life”]()
 		- Why Elixir? Personally I do believe that people who care about  frontends write their own backends. Being able to control the server for your app opens up so many possibilities beyond what something like CloudKit can do
 		- Why React? SwiftUI is _so bad right now_ if you want to right polished software. I mean don’t get me wrong most of Apple’s higher level UI frameworks are bad but SwiftUI is 10x Autolayout levels of janky right now and I like nice smooth things. I’ll probably continue using Texture + IGListKit for a long time to come.
 	-  This is a risky proposition, to say the least. I’m mostly ignoring SwiftUI as it matures and missing out on a lot of the cool stuff that the community is doing. But I’ve done enough FOMOing for one career and this is my weird way to take a breather.
+	- Consistently putting in work slowly has been great for me. Can you tell when my probation ended?  
+		![][image-2]
 -  Work stuff:
 	- Working at a large company is a very interesting experience. It’s a great place to build lots of expertise, have great teammates and not to mention gives a lot of psychological safety vs a startup (or god forbid, a startup within a startup) where you’re constantly in fight or flight mode.
 	- One of my goals this year is to build a better relationship with my manager. I’ve never been great at receiving feedback or generally working well with others and this is one of those things I need to get better at. I’m currently reading [No Hard Feelings][6] and [Julia Evans’ excellent zine][7] on having a manager.   
@@ -39,3 +41,4 @@ tags: [”2020, Life”]()
 [7]:	https://wizardzines.com/zines/manager/
 
 [image-1]:	assets/Unknown.jpeg
+[image-2]:	assets/DraggedImage.png
