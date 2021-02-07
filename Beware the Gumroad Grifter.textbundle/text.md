@@ -23,7 +23,7 @@ Podia, if you’re listening “Don’t be a Gumroad Grifter, be a Podia Produce
 [2]:	https://twitter.com/joserosado/status/1355870754202656770
 [3]:	https://twitter.com/haysstanford/status/1306209477226569729?s=21
 [4]:	https://twitter.com/jdbuyshouses/status/1332372355012845569?s=21
-[5]:	%20https://twitter.com/decadeinvestor/status/1355251871925948418?s=21
+[5]:	https://twitter.com/decadeinvestor/status/1355251871925948418?s=21
 [6]:	https://web.archive.org/web/20200719215756/https://twitter.com/LifeMathMoney/status/1284849840631898114
 [7]:	https://archive.is/agtf7
 [8]:	http://podia.com
