@@ -34,7 +34,7 @@ tags: [”2020, Life”]()
 - Stretch goals:
 	- Read a little every day. Whether it’s a book or a WWDC video I think it’s important to keep getting better. To this end I’m blocking off an hour a day for this, starting tomorrow (at this point it’s the 26th of January lol)
 - Personal stuff:
-	- I’ve been blocking off more video game time and honestly it’s been great for de-stressing after a long day or staying connected with friends. I’ve gotten really good (or really bad depending on how you look at it) at COD and I’ve done atleast one playthrough of Anthem.
+	- I’ve been blocking off more video game time and honestly it’s been great for de-stressing after a long day or staying connected with friends. I’ve gotten really good [(or really bad depending on how you look at it) at COD][9] and I’ve done atleast one playthrough of Anthem.
 
 [2]:	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjc8_mpnKTuAhVEhlwKHSdgALkQFjABegQICBAC&url=https%3A%2F%2Fcleantechnica.com%2F2020%2F11%2F10%2Fwhy-didnt-mcdonalds-mcplant-boost-beyond-meats-valuation%2F&usg=AOvVaw1pusemN-1xxGrrUXI9FDqf
 [3]:	https://twitter.com/carnage4life/status/1350876743788187649?s=21
@@ -43,6 +43,7 @@ tags: [”2020, Life”]()
 [6]:	https://reactjs.org
 [7]:	https://www.lizandmollie.com/book/ "No Hard Feelings"
 [8]:	https://wizardzines.com/zines/manager/
+[9]:	https://twitter.com/codeofrobin/status/1346605557290070017?s=21
 
 [image-1]:	assets/Unknown.jpeg
 [image-2]:	assets/DraggedImage.png
