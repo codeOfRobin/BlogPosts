@@ -8,7 +8,7 @@ tags: [”COVID, Pandemic, Life”]()
 
 CW: Feels.
 
-Some background: the genesis of this post came from [this conversation][2] I had with one of the coolest people I know on the internet.
+Some background: the genesis of this post came from [this conversation][2] I had with one of the coolest people I follow on the internet.
 
 Confession: this isn’t a recent phenomenon for me. Since basically May 2020, life has pretty much been buttered noodles in a lot of places, especially the media I consume.
 
